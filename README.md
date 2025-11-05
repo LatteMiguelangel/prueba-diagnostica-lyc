@@ -1,6 +1,6 @@
 # Prueba Diagnostica — Lenguajes y Compiladores (SEM 2025-2)
 
-Este repositorio contiene la solución a la evaluación final de la asignatura **Lenguajes y Compiladores**, organizada en cuatro problemas independientes. Cada carpeta incluye el código fuente, scripts de ejecución y archivos auxiliares necesarios para reproducir los resultados.
+Este repositorio contiene la solución a la prueba diagnostica de la asignatura **Lenguajes y Compiladores**, organizada en cuatro problemas independientes. Cada carpeta incluye el código fuente, scripts de ejecución y archivos auxiliares necesarios para reproducir los resultados.
 
 🎥 [ENLACE AL VIDEO DE LA DEFENSA](https://youtu.be/G9pNm5_mehQ)
 
