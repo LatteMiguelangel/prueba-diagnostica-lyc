@@ -2,6 +2,9 @@
 
 Este repositorio contiene la solución a la evaluación final de la asignatura **Lenguajes y Compiladores**, organizada en cuatro problemas independientes. Cada carpeta incluye el código fuente, scripts de ejecución y archivos auxiliares necesarios para reproducir los resultados.
 
+🎥 [ENLACE AL VIDEO DE LA DEFENSA](https://youtu.be/G9pNm5_mehQ)
+
+
 ---
 
 ## 📁 Estructura del repositorio
@@ -25,3 +28,23 @@ Compilación típica:
 
 ```bash
 gcc ejercicio2.c -o ejercicio2.exe
+```
+
+### 🐍 Lenguaje Python
+
+Los scripts en Python fueron desarrollados y ejecutados en Jupyter Notebook, utilizando únicamente librerías nativas del lenguaje (como ```re``` para expresiones regulares). No fue necesario instalar dependencias externas ni configurar entornos virtuales.
+
+Para instalar Python y Jupyter Notebook desde línea de comandos, se siguieron los siguientes tutoriales:
+📺 [Cómo instalar Python en Windows](https://www.youtube.com/watch?v=7IPgxMg6hLk&pp=ygUUY29tbyBpbnN0YWxhciBweXRob24%3D)
+📺 [Cómo instalar Jupyter Notebook](https://www.youtube.com/watch?v=6j6L3feh1p4pp=ygUeY29tbyBpbnN0YWxhciBqdXB5dGVyIG5vdGVib29r)
+
+Instalación por terminal:
+
+```bash
+pip install notebook
+jupyter notebook
+```
+
+## ⚠️ Nota importante sobre rutas absolutas
+
+En los ejercicios que involucran lectura de archivos (Problema3 y Problema4), se utilizaron rutas absolutas específicas del entorno local (se deben modificar para que los scripts funcionen adecuadamente).
